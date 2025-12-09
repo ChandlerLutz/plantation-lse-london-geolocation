@@ -1,0 +1,23 @@
+# Mac System Files (Fixed capitalization)
+.DS_Store
+
+# R Environment Files (Don't push these)
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rprofile
+
+# Ignore Backup files
+*~
+
+# LaTeX Build Junk (Keep your .tex and .pdf, ignore the rest)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+documentation/*
