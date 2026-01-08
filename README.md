@@ -64,14 +64,14 @@ source("010-get_gmaps_geolocation.R")
 
 If you use this code or data in your research, please cite:
 
-> Giacomin, V. & Lutz, C. (2025). *Historical London Company Geocoding Pipeline (Early 20th Century)* [Computer software]. GitHub. https://github.com/ChandlerLutz/London-Historical-Geocoding
+> Giacomin, V. & Lutz, C. (2025). *Historical London Company Geocoding Pipeline (Early 20th Century)* [Computer software]. GitHub. https://github.com/ChandlerLutz/plantation-lse-london-geolocation
 
 ```
 @software{Lutz_Giacomin_2025,
   author = {Giacomin, Valeria and Lutz, Chandler},
   title = {{Historical London Company Geocoding Pipeline (Early 20th Century)}},
   year = {2025},
-  url = {https://github.com/ChandlerLutz/London-Historical-Geocoding},
+  url = {https://github.com/ChandlerLutz/plantation-lse-london-geolocation},
   note = {GitHub repository}
 }
 ```
